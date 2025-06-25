@@ -1,0 +1,14 @@
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\bin\Debug\net8.0\Арифметика и простой конвертор валют.exe
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\bin\Debug\net8.0\Арифметика и простой конвертор валют.deps.json
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\bin\Debug\net8.0\Арифметика и простой конвертор валют.runtimeconfig.json
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\bin\Debug\net8.0\Арифметика и простой конвертор валют.dll
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\bin\Debug\net8.0\Арифметика и простой конвертор валют.pdb
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.AssemblyInfoInputs.cache
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.AssemblyInfo.cs
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.csproj.CoreCompileInputs.cache
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.dll
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\refint\Арифметика и простой конвертор валют.dll
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.pdb
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\Арифметика и простой конвертор валют.genruntimeconfig.cache
+C:\Users\igorsu\source\Lessons\Арифметика и простой конвертор валют\obj\Debug\net8.0\ref\Арифметика и простой конвертор валют.dll

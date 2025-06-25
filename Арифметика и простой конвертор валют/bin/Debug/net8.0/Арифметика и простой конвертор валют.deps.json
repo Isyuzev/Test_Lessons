@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Арифметика и простой конвертор валют/1.0.0": {
+        "runtime": {
+          "Арифметика и простой конвертор валют.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Арифметика и простой конвертор валют/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
