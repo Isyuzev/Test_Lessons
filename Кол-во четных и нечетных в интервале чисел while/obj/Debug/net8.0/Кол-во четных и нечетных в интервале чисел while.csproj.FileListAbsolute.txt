@@ -1,0 +1,14 @@
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\bin\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.exe
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\bin\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.deps.json
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\bin\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.runtimeconfig.json
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\bin\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.dll
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\bin\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.pdb
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.AssemblyInfoInputs.cache
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.AssemblyInfo.cs
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.csproj.CoreCompileInputs.cache
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.dll
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\refint\Кол-во четных и нечетных в интервале чисел while.dll
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.pdb
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\Кол-во четных и нечетных в интервале чисел while.genruntimeconfig.cache
+C:\Users\igorsu\source\Lessons\Кол-во четных и нечетных в интервале чисел while\obj\Debug\net8.0\ref\Кол-во четных и нечетных в интервале чисел while.dll
